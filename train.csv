@@ -1,6 +1,0 @@
-Train_Number,Train_Name,S1,S1_code,Departure,S2,S2_code,Time,S3,S3_code,S4,S4_Code,Arrival
-13015,Bhp Kaviguru Express,Howrah Junction,HWH,08:58,Dakhineshwar,DAKE,09:30,Bardhamman,BWN,Bolpur S Niktn,BHP,12:10
-12337,Santinikatanexp,Howrah Junction,HWH,10:14,Dakhineshwar,DAKE,11:30,Bardhamman,BWN,Bolpur S Niktn,BHP,20:23
-12307,Hwh Ju Express,Howrah Junction,HWH,11:50,Bardhamman,BWN,12:46,Gaya,GAYA,Bikaner Junction,BKN,08:15
-13063,Hwh Blgt Express,Howrah Junction,HWH,07:23,New Farakka Junction,NFK,14:33,Malda Town,MLDT,Balurghat,BLGT,18:24
-13025,Hwh Bpl Express,Howrah Junction,HWH,01:31,Dhanbad Junction (DHN),(DHN),14:20,Bina Junction ,BINA,Bhopal Junction,BPL,17:17
